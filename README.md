@@ -1,5 +1,6 @@
-## Hi there 👋
 
+## Noob go Coder >.>
+Nice to meet YOU UwU
 <!--
 **ManInM00N/ManInM00N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
