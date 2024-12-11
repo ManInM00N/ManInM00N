@@ -1,6 +1,12 @@
 
-## Noob go Coder >.>
-Nice to meet YOU UwU
+## Noob Go Coder :dizzy: > . >
+Nice to meet YOU 👋 UwU
+
+I'm learning go and docker :hugs: XD 
+<h3 align="left">Languages and Tools:</h3>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManInM00N&show_icons=true&locale=en&layout=compact" alt="ManInM00N" /></p>
 <!--
 **ManInM00N/ManInM00N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
