@@ -16,7 +16,7 @@ Nice to meet YOU 👋 UwU
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)](https://www.mysql.com/)  
+[![](https://img.shields.io/badge/-kubernetes-2496ED?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/zh-cn/)  
 [![](https://img.shields.io/badge/-MongoDB-4479A1?style=flat-square&logo=MongoDB&logoColor=fff)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=fff)](https://www.postgresql.org/)  
 
