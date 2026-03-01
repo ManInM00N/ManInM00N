@@ -24,5 +24,6 @@ Nice to meet YOU 👋 UwU
 
 <h3 align="left">Languages and Tools:</h3>
 
+![](https://arisu-github-readme.vercel.app/api?username=ManInM00N&locale=en&line_height=33&show_icons=true&hide=&theme=default&rank_icon=default) 
+![](https://arisu-github-readme.vercel.app/api/top-langs/?username=ManInM00N&locale=en&line_height=33&theme=default&langs_count=12&layout=compact)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManInM00N&show_icons=true&locale=en&layout=compact" alt="ManInM00N" /></p>
