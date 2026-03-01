@@ -19,6 +19,8 @@ Nice to meet YOU 👋 UwU
 [![](https://img.shields.io/badge/-kubernetes-2496ED?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/zh-cn/)  
 [![](https://img.shields.io/badge/-MongoDB-4479A1?style=flat-square&logo=MongoDB&logoColor=fff)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=fff)](https://www.postgresql.org/)  
+[![](https://img.shields.io/badge/-DuckDB-4479A1?style=flat-square&logo=DuckDB&logoColor=fff)](https://duckdb.org/)  
+
 
 [![](https://img.shields.io/badge/IDE-NeoVim-019733?style=flat-square&logo=neovim&logoColor=#57A143)](https://www.vim.org/)  
 
